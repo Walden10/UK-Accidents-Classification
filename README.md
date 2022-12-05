@@ -11,3 +11,7 @@ The following ML methods are trained and evaluated:
 - Support Vector Machine
 - Logistic Regression
 - ADA - Boost
+
+
+*Datasets not uploaded in this repository due to file size restrictions. The datasets are publicly available from the following website and link:*
+https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data
